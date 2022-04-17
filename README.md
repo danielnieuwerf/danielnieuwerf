@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<p>
+  <a href="https://www.linkedin.com/in/daniel-nieuwerf-090702150/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
 <!--
 **danielnieuwerf/danielnieuwerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
