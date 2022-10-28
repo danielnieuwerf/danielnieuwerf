@@ -4,6 +4,9 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
+
+![](https://komarev.com/ghpvc/?username=danielnieuwerf&color=blueviolet)
+
 <!--
 **danielnieuwerf/danielnieuwerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
