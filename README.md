@@ -1,5 +1,6 @@
 ### Hi there 👋
 <p>
+  Follow me on LinkedIn here: 
   <a href="https://www.linkedin.com/in/daniel-nieuwerf-090702150/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
@@ -7,6 +8,11 @@
 
 ![](https://komarev.com/ghpvc/?username=danielnieuwerf&color=blueviolet)
 
+
+<p>
+  LeetCode:
+ </p>
+ 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/OrderOfRootN?theme=dark&font=Diplomata%20SC&ext=heatmap)
 
 <!--
