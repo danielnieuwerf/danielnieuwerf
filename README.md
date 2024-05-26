@@ -8,13 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=danielnieuwerf&color=blueviolet)
 
-
-<p>
-  LeetCode:
- </p>
- 
-![Leetcode Stats](https://leetcard.jacoblin.cool/OrderOfRootN?theme=dark&font=Diplomata%20SC&ext=heatmap)
-
 <!--
 **danielnieuwerf/danielnieuwerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
